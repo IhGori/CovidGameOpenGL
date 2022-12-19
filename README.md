@@ -47,7 +47,7 @@ Relembrando, todo tutorial de instalação supracitado foi retirado do guia de i
 <br>
 
 ## Jogo
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="WsW9utZ"><a href="https://imgur.com/WsW9utZ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/WsW9utZ">
 <img src="https://imgur.com/TTVrane">
 <img src="https://imgur.com/HO9hwFc">
