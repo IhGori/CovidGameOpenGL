@@ -46,6 +46,10 @@ Relembrando, todo tutorial de instalação supracitado foi retirado do guia de i
 <br>
 <br>
 
+## Jogo
+
+<img src="https://i.postimg.cc/pyQWKmpB/home.png">
+
 Project developed during the course of Computer Graphics
 
 Using the C++ programming language with OpenGL API to develop graphical applications.
