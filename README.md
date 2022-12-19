@@ -48,7 +48,9 @@ Relembrando, todo tutorial de instalação supracitado foi retirado do guia de i
 
 ## Jogo
 
-<img src="https://i.postimg.cc/pyQWKmpB/home.png">
+<img src="https://imgur.com/WsW9utZ">
+<img src="https://imgur.com/TTVrane">
+<img src="https://imgur.com/HO9hwFc">
 
 Project developed during the course of Computer Graphics
 
