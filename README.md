@@ -48,9 +48,10 @@ Relembrando, todo tutorial de instalação supracitado foi retirado do guia de i
 <br>
 
 ## Jogo
-<img src="https://imagizer.imageshack.com/img923/7643/LzFHAC.png">
 <img src="https://imagizer.imageshack.com/img922/3273/P24I3s.png">
 <img src="https://imagizer.imageshack.com/img922/443/feUMMk.png">
+<img src="https://imagizer.imageshack.com/img923/7643/LzFHAC.png">
+
 
 <br>
 
