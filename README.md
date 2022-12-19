@@ -1,3 +1,4 @@
+ <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
 # Covid Game Project OpenGL with C++
 Projeto desenvolvido durante disciplina de Computação Gráfica
 
